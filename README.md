@@ -1,4 +1,4 @@
-# Nama Projek: Basic Codelab Compose
+# Basic Codelab Compose
 
 ## Overview
 Belajar basic jetpack compose dengan lazy column.
